@@ -1,6 +1,7 @@
 ### Hey Marcílio here 👋
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+<p align="center">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
+</p>
 
 ---
 <p>
