@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
-</p>
+![20201006_201155_0000](https://user-images.githubusercontent.com/49158754/95253911-0371ed00-0817-11eb-80d6-568929258591.png)
 
 ---
 
@@ -26,6 +24,6 @@ I am a Full-Stack Developer who hold SCRUM Certifications (SFPC and SFC) and I h
 <br/>
 
 ---
-Let's connect and solve the user's problems with a data-driven approach 👨‍💻
+Let's connect and solve the user's problems with a data-driven approach 💻
 
 **Check the Repositories and don't forget to give a star.** 👇
