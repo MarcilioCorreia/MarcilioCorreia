@@ -27,6 +27,7 @@ I am a Full-Stack Developer who hold SCRUM Certifications (SFPC and SFC) and I h
 ### Tech & Tools Preference
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="http://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Android Studio-563D7C?style=flat&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Kotlin-563D7C?style=flat&logo=kotlin&logoColor=white">
@@ -39,12 +40,14 @@ I am a Full-Stack Developer who hold SCRUM Certifications (SFPC and SFC) and I h
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Visual Basic-F29111?style=flat&logo=visualbasic&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Visual Basic-F29111?style=flat&logo=visualbasic.net&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-.NET-563D7C?style=flat&logo=.NET&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-black?style=flat&logo=figma&logoColor=white"> 
 <img src="https://img.shields.io/badge/-WordPress-4DB33D?style=flat&logo=wordpress&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MailChimp-eed718?style=flat&logo=MailChimp&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Trello-black?style=flat&logo=trello&logoColor=white"> 
+<img src="https://img.shields.io/badge/-JIRA Software-3C873A?style=flat&logo=JIRA&logoColor=white">
 
 
 ---
