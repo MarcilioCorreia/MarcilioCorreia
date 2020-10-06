@@ -1,9 +1,10 @@
-### Hey Marcílio here 👋
 <p align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 </p>
 
 ---
+
+### Hey Marcílio here 👋
 <p>
 I am a Full-Stack Developer who hold SCRUM Certifications (SFPC and SFC) and I have abilities with Design Thinking, Agile Methods (Scrum and Kanban), Jira Software, and the product development life cycle.
 </p>
