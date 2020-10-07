@@ -25,8 +25,7 @@ I am a Full-Stack Developer who hold SCRUM Certifications (SFPC and SFC) and I h
 
 ---
 ### Tech & Tools Preference
-<img src = "https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"><img src = "https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-080135?style=flat&logo=bootstrap&logoColor=white">
 <img src="http://img.shields.io/badge/-jQuery-0769ad?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white">
