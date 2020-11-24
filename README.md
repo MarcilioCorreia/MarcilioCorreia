@@ -4,7 +4,7 @@
 
 ### Hey Marcílio here 👋
 <p>
-I am a Full-Stack Developer who hold SCRUM Certifications (SFPC and SFC) and I have abilities with Design Thinking, Agile Methods (Scrum and Kanban), Jira Software, and the product development life cycle.
+I am a JavaScript/React developer who want to solve complex user problems. Besides my knowledge with Agile Frameworks (Scrum / Kanban), and software development life cycle, I have already participated in Hackathons and Bootcamps to improve my skills.
 </p>
 <p align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciliocorreia&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
