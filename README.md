@@ -29,10 +29,10 @@ I am a JavaScript/React developer who want to solve complex user problems. Besid
 <img src="https://img.shields.io/badge/-Bootstrap-080135?style=flat&logo=bootstrap&logoColor=white">
 <img src="http://img.shields.io/badge/-jQuery-0769ad?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-Android Studio-669933?style=flat&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-Kotlin-563D7C?style=flat&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-CD6799?style=flat&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-MariaDB-4DB33D?style=flat&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
